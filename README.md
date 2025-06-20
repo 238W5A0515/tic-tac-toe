@@ -25,24 +25,26 @@ A simple and fun **Tic-Tac-Toe** game built with **HTML**, **CSS**, and **JavaSc
 ## 📂 Project Structure
 
 tic-tac-toe/
-├── index.html # Structure of the game
+├── index.html# Structure of the game
+
 ├── style.css # Styling of the board and controls
+
 └── script.js # Game logic and AI moves
 
-##🧠 Game Logic
+# 🧠 Game Logic
 Player X: You click on empty cells to play.
 
 Player O: The computer plays a random available cell after you.
 
 Game checks for a win or draw after every move.
 
-##📸 Screenshot
+## 📸 Screenshot
 ![image](https://github.com/user-attachments/assets/fff9a2c9-daba-4cf5-a71d-822865820005)
 
 you can see the live game at : https://238w5a0515.github.io/tic-tac-toe/
-##📜 License
+## 📜 License
 This project is licensed under the MIT License.
 
-##👨‍💻 Author
+## 👨‍💻 Author
 Developed by Peetha Manikantha (238W5A0515)
 Feel free to connect via LinkedIn or email
